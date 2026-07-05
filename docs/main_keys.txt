@@ -1,0 +1,84 @@
+#profile-title: VPN | FREE
+#announce: ⚡ Бесплатный впн⚡
+#hide-settings: 1
+#profile-update-interval: 1
+
+vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.94.251:8880?encryption=none&security=none&type=ws&host=fragrant-surf-4797.496-345.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇷🇺 Russia #1 [🏳️]
+
+vless://94977b19-6720-48a6-92fd-00238757ea30@162.159.21.178:8880?encryption=none&security=none&type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺 Russia #2 [🏳️]
+
+vless://d6d0ba7b-fa88-4b2c-9915-530ae4a81035@104.21.12.116:8880?encryption=none&security=none&type=ws&host=aged-mud-9b4c.202-2dc.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🇱🇹 Lithuania #1 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.50:8880/?flow=&host=vms.lifetime37.workers.dev&encryption=none&type=ws&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&freeinternet=kizyak_vpn1783266841871#🇱🇹 Lithuania #2 [🏳️]
+
+vless://18a7834f-bf89-4c87-ad57-49927a56deed@104.21.88.129:8880/?type=ws&encryption=none&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇱🇹 Lithuania #3 [🏳️]
+
+vless://18a7834f-bf89-4c87-ad57-49927a56deed@172.67.179.98:8880?type=ws&host=holy-violet-858e.471.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇱🇹 Lithuania #4 [🏳️]
+
+vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.56.202:8880?security=none&type=ws&host=tiny-feather-4c41.227.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇱🇹 Lithuania #5 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#🇱🇹 Lithuania #6 [🏳️]
+
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.19.238.22:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048&security=none#🇱🇹 Lithuania #7 [🏳️]
+
+vless://63a1d550-f8da-456e-813c-398dd819e405@162.159.48.193:8880?&security=false&fp=chrome&type=ws&headerType=none&host=noisy-cherry-b46b.206-866.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇱🇹 Lithuania #8 [🏳️]
+
+vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?&security=none&type=ws&headerType=&host=icy-hall-bfba.266-f4e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇱🇹 Lithuania #9 [🏳️]
+
+vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?type=ws&host=jolly-base-0bce.hamedpop2.workers.dev&path=/eyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560#🇱🇹 Lithuania #10 [🏳️]
+
+vless://199175fe-52cc-452d-a8b4-d6673ab8d6bf@151.101.193.57:80?type=ws&encryption=none&security=none&path=/&host=superip2.global.ssl.fastly.net#🇺🇸 Usa #1 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880/?flow=&path=%2F&type=ws&host=vms.lifetime17.workers.dev&encryption=none&_t=8a6c132c#🇺🇸 Usa #2 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.222.30:8880/?type=ws&flow=&encryption=none&host=vms.lifetime40.workers.dev&path=%2F%3Fed%3D2560#🇺🇸 Usa #3 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.40:8880/?type=ws&encryption=none&path=%2F&flow=&host=vms.lifetime19.workers.dev&burmalda=4a44acfb#🇺🇸 Usa #4 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.30:8880/?encryption=none&type=ws&path=%2F&host=vms.lifetime47.workers.dev&flow=&descriptions=СвободуИнтернету960#🇺🇸 Usa #5 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.222.40:8880/?path=%2F&type=ws&packetEncoding=xudp&encryption=none&host=vms.lifetime40.workers.dev&flow=&seq=you_are_beautiful2405#🇺🇸 Usa #6 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.40:8880/?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws&host=vms.lifetime37.workers.dev&flow=&encryption=none&descriptions=СвободуИнтернету880#🇺🇸 Usa #7 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.30:8880/?flow=&host=vms.lifetime38.workers.dev&type=ws&path=%2F&encryption=none&nonce=Ib1b6aSQ#🇺🇸 Usa #8 [🏳️]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@205.233.181.117:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #1 [🏴]
+
+vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?encryption=none&security=tls&sni=global.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=website-alfredo.global.ssl.fastly.net&path=%2F%40Alfred_Config&mode=auto#🇫🇮 Finland #2 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.42.89.157:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #3 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #4 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.220:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#🇫🇮 Finland #5 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.8.211.14:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #6 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #7 [🏴]
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.5:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇫🇮 Finland #8 [🏴]
+
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#🇩🇪 Germany #1 [🏴]
+
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#🇩🇪 Germany #2 [🏴]
+
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#🇩🇪 Germany #3 [🏴]
+
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#🇩🇪 Germany #4 [🏴]
+
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#🇩🇪 Germany #5 [🏴]
+
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?encryption=none&type=ws&security=tls&path=%2F&host=wa2.mhrnet.com&sni=wa1.mhrnet.com&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Germany #6 [🏴]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?encryption=none&type=ws&host=vms.lifetime09.workers.dev&packetEncoding=xudp&burmalda=c45ab474#🇬🇧 United Kingdom #1 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.28.30:8880?encryption=none&host=vms.lifetime07.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#🇬🇧 United Kingdom #2 [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880/?host=vms.lifetime38.workers.dev&flow=&type=ws&encryption=none&seq=you_are_beautiful0341#🇦🇺 Australia [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime61.workers.dev&path=%2F&seq=you_are_beautiful1834#🇳🇱 Netherlands [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime18.workers.dev&path=%2F&freeinternet=kizyak_vpn1783266834858#🇦🇪 Uae [🏳️]
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880/?type=ws&encryption=none&flow=&host=vms.lifetime19.workers.dev&path=%2F&seq=you_are_beautiful9436#🇸🇮 Slovenia [🏳️]
