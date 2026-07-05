@@ -1,9 +1,5 @@
 # 🚀 Бесплатный VPN-конфиг
 
-[![GitHub license](https://shields.io)](LICENSE)
-[![GitHub stars](https://shields.io)](https://github.com)
-[![GitHub Actions](https://shields.io)](https://github.com)
-
 Автоматический сбор и проверка рабочих VPN-ключей (`vless`, `hysteria2` и другие). Скрипт запускается вручную через **GitHub Actions** и мгновенно обновляет файлы с актуальными конфигурациями.
 
 ---
