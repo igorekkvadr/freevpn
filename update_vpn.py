@@ -9,6 +9,23 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import unquote
+# Создаем папку и файлы если их нет
+os.makedirs("docs", exist_ok=True)
+
+# Создаем файлы если их нет
+if not os.path.exists("docs/keys.json"):
+    with open("docs/keys.json", "w", encoding="utf-8") as f:
+        f.write('{"updated_at": "2026-07-06 00:00 UTC", "total_working": 0, "all_keys": []}')
+
+if not os.path.exists("docs/main_keys.txt"):
+    with open("docs/main_keys.txt", "w", encoding="utf-8") as f:
+        f.write("#profile-title: VPN | FREE\n#announce: ⚡ Бесплатный впн⚡\n#hide-settings: 1\n#profile-update-interval: 1\n\n")
+
+if not os.path.exists("docs/keys.txt"):
+    open("docs/keys.txt", "w", encoding="utf-8").close()
+
+if not os.path.exists("docs/top_50.txt"):
+    open("docs/top_50.txt", "w", encoding="utf-8").close()
 
 # Источники
 BLACK_URL = "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
