@@ -27,10 +27,9 @@ https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/main_
 
 | Файл | Описание | Формат / Назначение |
 | :--- | :--- | :--- |
-| 🛡️ **[docs/main_keys.txt](https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/main_keys.txt)** | **Топ-50 ключей** с лучшим пингом. | Идеально для ежедневного использования |
+| 🛡️ **[docs/main_keys.txt](https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/main_keys.txt)** | **Топ-50 ключей** с лучшим пингом. | Готовая конфигурация для добавления в клиент |
 | 📋 **[docs/keys.txt](https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/keys.txt)** | **Все рабочие ключи** без ограничений. | Огромный выбор локаций |
 | 📊 **[docs/top_50.txt](https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/top_50.txt)** | Топ-50 ключей **с указанием пинга** и протокола. | Для ручного анализа задержек |
-| 💻 **[docs/keys.json](https://raw.githubusercontent.com/igorekkvadr/freevpn/refs/heads/main/docs/keys.json)** | Полные данные в формате JSON. | Для разработчиков и авто-скриптов |
 
 ---
 
