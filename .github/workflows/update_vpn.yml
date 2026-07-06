@@ -1,7 +1,11 @@
 name: Update VPN Configs
 
 on:
-  workflow_dispatch:  # Только ручной запуск
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   update:
@@ -28,10 +32,14 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Забираем последние изменения из удаленного репозитория
+        # Сохраняем изменения, если они есть
+        git stash push --include-untracked -m "auto-stash" || echo "Nothing to stash"
+        # Забираем последние изменения
         git pull --rebase
+        # Восстанавливаем изменения
+        git stash pop || echo "No stash to pop"
         git add docs/
         # Коммитим, если есть изменения
         git diff --staged --quiet || git commit -m "Manual update VPN configs $(date +'%Y-%m-%d %H:%M')"
-        # Пушим с force lease для безопасности
+        # Пушим
         git push --force-with-lease
