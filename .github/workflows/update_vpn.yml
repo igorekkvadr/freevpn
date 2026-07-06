@@ -28,6 +28,10 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        # Забираем последние изменения из удаленного репозитория
+        git pull --rebase
         git add docs/
+        # Коммитим, если есть изменения
         git diff --staged --quiet || git commit -m "Manual update VPN configs $(date +'%Y-%m-%d %H:%M')"
-        git push
+        # Пушим с force lease для безопасности
+        git push --force-with-lease
