@@ -1,150 +1,150 @@
-#1 Ping: 8.0ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#2 Ping: 8.0ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#3 Ping: 8.0ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#4 Ping: 8.1ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.129.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#5 Ping: 8.1ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#6 Ping: 8.1ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.129.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#7 Ping: 8.2ms | 🇫🇮 Finland | vless | BLACK
-vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?encryption=none&security=tls&sni=global.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=website-alfredo.global.ssl.fastly.net&path=%2F%40Alfred_Config&mode=auto#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-
-#8 Ping: 8.2ms | 🇩🇪 Germany | vless | BLACK
+#1 Ping: 1.6ms | 🇩🇪 Germany | vless | BLACK
 vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
-#9 Ping: 8.2ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#10 Ping: 8.3ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#11 Ping: 8.3ms | 🇫🇮 Finland | vless | BLACK
-vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?encryption=none&security=tls&sni=global.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=website-alfredo.global.ssl.fastly.net&path=%2F%40Alfred_Config&mode=auto#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-
-#12 Ping: 8.4ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&host=relay-6bcjt33c.edgecompute.app&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#13 Ping: 8.4ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?encryption=none&host=relay-6bcjt33c.edgecompute.app&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#14 Ping: 8.4ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:2087?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-
-#15 Ping: 8.4ms | 🇸🇪 Sweden | vless | WHITE
-vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&security=none&type=ws&host=vl.dalazhi.cloudns.biz&path=%2F&descriptions=люби_себяa8ac4c#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
-
-#16 Ping: 8.5ms | 🇺🇸 Usa | vless | BLACK
+#2 Ping: 1.6ms | 🇺🇸 Usa | vless | BLACK
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@69.46.46.116:443?type=ws&security=tls&fp=chrome&sni=rvg-production-8249.up.railway.app&path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&host=rvg-production-8249.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
 
-#17 Ping: 8.5ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.8.211.14:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#3 Ping: 1.7ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&security=tls&sni=relay-6bcjt33c.edgecompute.app&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=/dana1365#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
-#18 Ping: 8.5ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#4 Ping: 1.7ms | 🇨🇦 Canada | vless | WHITE
+vless://16586b3b-9e26-4fe9-b137-389ea48f088c@104.26.13.40:8880?type=ws&fp=chrome&security=false&headerType=none&host=ancient-glade-34d6.6-07d.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&__rand=6acd61a2#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 
-#19 Ping: 8.5ms | 🇺🇸 Usa | vless | WHITE
-vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@170.114.46.6:8080?host=free-server.techsonic.me&path=%2Ffree-server.techsonic.me&type=ws&security=none&nonce=Z9C9oayP#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
-
-#20 Ping: 8.6ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#21 Ping: 8.6ms | 🇺🇸 Usa | vless | BLACK
-vless://72ffdff3-610d-b6d1-9d44-8fe430fe569f@69.46.46.73:443?type=ws&security=tls&fp=chrome&sni=tel-timazadi-mimi.up.railway.app&path=/ws/72ffdff3-610d-b6d1-9d44-8fe430fe569f&host=tel-timazadi-mimi.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
-
-#22 Ping: 8.6ms | 🇺🇸 Usa | vless | BLACK
-vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@69.46.46.116:443?type=ws&security=tls&fp=firefox&sni=rvg-production-8249.up.railway.app&path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&host=rvg-production-8249.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
-
-#23 Ping: 8.6ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-
-#24 Ping: 8.6ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?encryption=none&host=relay-6bcjt33c.edgecompute.app&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#25 Ping: 8.6ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-
-#26 Ping: 8.6ms | 🇳🇱 Netherlands | vless | BLACK
-vless://fdc3d0a6-11d7-8dcb-a825-3425011fb60d@arg-production-8b86.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&headerType=&host=arg-production-8b86.up.railway.app&path=%2Fws%2Ffdc3d0a6-11d7-8dcb-a825-3425011fb60d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
-
-#27 Ping: 8.6ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.220:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-
-#28 Ping: 8.6ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-
-#29 Ping: 8.6ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-
-#30 Ping: 8.6ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
-
-#31 Ping: 8.6ms | 🇨🇦 Canada | vless | WHITE
+#5 Ping: 1.7ms | 🇨🇦 Canada | vless | WHITE
 vless://2acde116-5949-48d8-a1e6-60a1d2547deb@162.159.46.0:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws&host=lively-pine-093d.144-868.workers.dev&headerType=&security=none#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 
-#32 Ping: 8.6ms | 🇨🇦 Canada | vless | WHITE
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws&host=flat-butterfly-d503.411-d1e.workers.dev&headerType=#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+#6 Ping: 1.8ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?encryption=none&host=relay-6bcjt33c.edgecompute.app&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
-#33 Ping: 8.6ms | 🇨🇦 Canada | vless | WHITE
-vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@162.159.40.49:80?encryption=none&packetEncoding=xudp&type=ws&host=silent-feather-8539.sddadad2233122eew.workers.dev&security=none&path=%2FeyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+#7 Ping: 1.8ms | 🇫🇮 Finland | vless | BLACK
+vless://934ad6e9-90a2-4fb9-957a-29905d63ebd0@199.232.237.66:443?encryption=none&security=tls&sni=global.fastly.com&insecure=0&allowInsecure=0&type=xhttp&host=website-alfredo.global.ssl.fastly.net&path=%2F%40Alfred_Config&mode=auto#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 
-#34 Ping: 8.6ms | 🇨🇦 Canada | vless | WHITE
+#8 Ping: 1.8ms | 🇨🇦 Canada | vless | WHITE
+vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880?host=muddy-sky-4767.344-7a7.workers.dev&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#9 Ping: 1.8ms | 🇨🇦 Canada | vless | WHITE
 vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?path=%2Fbr-orcl&encryption=none&host=space.byu.id.r3xxe.eu.cc&security=none&type=ws&descriptions=люби_себя77be40#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 
-#35 Ping: 8.6ms | 🇷🇺 Russia | vless | WHITE
-vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.67.174.37:8880?security=none&type=ws&host=dark-dew-c3ed.48-97c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+#10 Ping: 1.8ms | 🇨🇦 Canada | vless | WHITE
+vless://d682c8f4-e719-577e-cbe9-2e5b00000003@172.67.185.65:8080?type=ws&path=%2Fsync&host=0406.infinityconfig7.workers.dev#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 
-#36 Ping: 8.6ms | 🇺🇸 Usa | vless | WHITE
-vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@141.193.213.21:8080?&security=false&fp=chrome&type=ws&headerType=none&host=free-server.techsonic.me&path=%2Ffree-server.techsonic.me&__rand=1ef482e1#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+#11 Ping: 1.8ms | 🇷🇺 Russia | vless | WHITE
+vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&type=ws&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
 
-#37 Ping: 8.6ms | 🇸🇪 Sweden | vless | WHITE
-vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.140.62:8880?type=ws&security=none&host=dark-dew-c3ed.48-97c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&freeinternet=kizyak_vpn1783305769462#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
+#12 Ping: 1.8ms | 🇺🇸 Usa | vless | WHITE
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@170.114.46.6:8080?host=free-server.techsonic.me&path=%2Ffree-server.techsonic.me&type=ws&security=none&nonce=Z9C9oayP#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
 
-#38 Ping: 8.7ms | 🇩🇪 Germany | vless | BLACK
-vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.129.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+#13 Ping: 1.9ms | 🇺🇸 Usa | vless | BLACK
+vless://0ae6576e-8011-2f4d-ea20-b35d4faddb6e@69.46.46.119:443?path=/ws/0ae6576e-8011-2f4d-ea20-b35d4faddb6e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-780b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-780b.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
 
-#39 Ping: 8.7ms | 🇺🇸 Usa | vless | BLACK
-vless://0ae6576e-8011-2f4d-ea20-b35d4faddb6e@69.46.46.119:443?type=ws&security=tls&fp=chrome&sni=rvg-production-780b.up.railway.app&path=/ws/0ae6576e-8011-2f4d-ea20-b35d4faddb6e&host=rvg-production-780b.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
+#14 Ping: 1.9ms | 🇺🇸 Usa | vless | BLACK
+vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@69.46.46.116:443?encryption=none&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&sni=rvg-production-8249.up.railway.app&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
 
-#40 Ping: 8.7ms | 🇺🇸 Usa | vless | BLACK
-vless://72ffdff3-610d-b6d1-9d44-8fe430fe569f@69.46.46.73:443?security=tls&sni=tel-timazadi-mimi.up.railway.app&type=ws&host=tel-timazadi-mimi.up.railway.app&path=%2Fws%2F72ffdff3-610d-b6d1-9d44-8fe430fe569f&fp=chrome&alpn=http%2F1.1&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
+#15 Ping: 1.9ms | 🇨🇦 Canada | vless | BLACK
+vless://f31df241-9d91-4970-9b6c-aa6749e400a4@199.181.197.233:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-a8wz7h.zeus-et7dzh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-a8wz7h.zeus-et7dzh.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%5BBL%5D
 
-#41 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.42.89.157:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#16 Ping: 1.9ms | 🇫🇮 Finland | vless | BLACK
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 
-#42 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#17 Ping: 1.9ms | 🇫🇮 Finland | vless | BLACK
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 
-#43 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443?type=ws&security=tls&fp=firefox&sni=vpn47.cc.cd&path=/&host=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
-
-#44 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
+#18 Ping: 1.9ms | 🇫🇮 Finland | vless | BLACK
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 
-#45 Ping: 8.7ms | 🇩🇪 Germany | vless | BLACK
+#19 Ping: 1.9ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+
+#20 Ping: 1.9ms | 🇩🇪 Germany | vless | BLACK
 vless://83048224-1465-4dc7-9492-d7f5ba339fee@relay-6bcjt33c.edgecompute.app:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
-#46 Ping: 8.7ms | 🇳🇱 Netherlands | vless | BLACK
-vless://43710aca-1401-148f-1ea1-1d0fafd46c54@arg-production-8b86.up.railway.app:443?encryption=none&path=%2Fws%2F43710aca-1401-148f-1ea1-1d0fafd46c54&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+#21 Ping: 1.9ms | 🇨🇦 Canada | vless | WHITE
+vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@104.16.107.139:8880?headerType=none&host=tiny-lake-c7f3.16-1af.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=false&fp=chrome&type=ws&seq=you_are_beautiful4211#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
 
-#47 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
+#22 Ping: 1.9ms | 🇷🇺 Russia | vless | WHITE
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.18.46.69:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=vl.dalazhi.cloudns.biz&path=%2F&security=none&type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#23 Ping: 1.9ms | 🇺🇸 Usa | vless | WHITE
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@141.193.213.20:8080?path=%2Ffree-server.techsonic.me&type=ws&security=none&host=free-server.techsonic.me#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+
+#24 Ping: 2.0ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.1.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+
+#25 Ping: 2.0ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+
+#26 Ping: 2.0ms | 🇺🇸 Usa | vless | BLACK
+vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@69.46.46.116:443?type=ws&security=tls&fp=firefox&sni=rvg-production-8249.up.railway.app&path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&host=rvg-production-8249.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Palo%20Alto%20%28University%20South%29%20%7C%20%5BBL%5D
+
+#27 Ping: 2.0ms | 🇫🇮 Finland | vless | BLACK
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 
-#48 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.60:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#28 Ping: 2.0ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?encryption=none&host=relay-6bcjt33c.edgecompute.app&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
-#49 Ping: 8.7ms | 🇫🇮 Finland | vless | BLACK
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+#29 Ping: 2.0ms | 🇬🇧 United Kingdom | vless | WHITE
+vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?type=ws&security=none&encryption=none&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&eh=Sec-WebSocket-Protocol&ed=2560&host=yellow-mouse-fcce.400-318.workers.dev#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
 
-#50 Ping: 8.7ms | 🇨🇦 Canada | vless | WHITE
-vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@172.64.94.251:8880?headerType=none&security=false&host=ancient-tooth-af89.500-ba0.workers.dev&fp=chrome&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+#30 Ping: 2.0ms | 🇨🇦 Canada | vless | WHITE
+vless://cad25dec-01c3-4c2b-8422-eedeefa9a73e@104.21.87.142:8080?type=ws&path=/&host=zeus-panel-2mp2ud.287et32e3o8ye78.workers.dev&__rand=495490a5#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#31 Ping: 2.0ms | 🇨🇦 Canada | vless | WHITE
+vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=cold-shadow-66a0.278.workers.dev#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#32 Ping: 2.0ms | 🇷🇺 Russia | vless | WHITE
+vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@104.21.56.202:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cell-d20c.78-107.workers.dev&type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#33 Ping: 2.0ms | 🇷🇺 Russia | vless | WHITE
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.227.134:80?security=none&type=ws&path=/%3Fed%3D2048&host=zyzzzoao.xn--fiqv8j.eu.org#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#34 Ping: 2.0ms | 🇸🇪 Sweden | vless | WHITE
+vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.140.62:8880?type=ws&security=none&host=dark-dew-c3ed.48-97c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&freeinternet=kizyak_vpn1783305769462#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
+
+#35 Ping: 2.1ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?type=xhttp&security=tls&path=/dana1365&sni=relay-6bcjt33c.edgecompute.app&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+
+#36 Ping: 2.1ms | 🇩🇪 Germany | vless | BLACK
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?encryption=none&type=ws&security=tls&path=%2F&host=wa2.mhrnet.com&sni=wa1.mhrnet.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+
+#37 Ping: 2.1ms | 🇫🇮 Finland | vless | BLACK
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+
+#38 Ping: 2.1ms | 🇫🇮 Finland | vless | BLACK
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&type=ws&path=%2F&host=sevenfeshab.global.ssl.fastly.net&packetEncoding=xudp&sni=ssl.fastly.com&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+
+#39 Ping: 2.1ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.65.51:443?encryption=none&mode=auto&path=%2Fdana1365&security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+
+#40 Ping: 2.1ms | 🇳🇱 Netherlands | vless | BLACK
+vless://43710aca-1401-148f-1ea1-1d0fafd46c54@arg-production-8b86.up.railway.app:443?type=ws&security=tls&fp=chrome&path=/ws/43710aca-1401-148f-1ea1-1d0fafd46c54#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+
+#41 Ping: 2.1ms | 🇫🇮 Finland | vless | BLACK
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+
+#42 Ping: 2.1ms | 🇫🇮 Finland | vless | BLACK
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+
+#43 Ping: 2.1ms | 🇨🇦 Canada | vless | WHITE
+vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@104.21.88.129:8880?host=shy-wind-a26f.182-104.workers.dev&path=/pyip&type=ws&encryption=none&nonce=lhaZEUKq#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#44 Ping: 2.1ms | 🇨🇦 Canada | vless | WHITE
+vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@172.67.179.98:8880?encryption=none&host=shy-wind-a26f.182-104.workers.dev&type=ws&path=/pyip#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#45 Ping: 2.1ms | 🇨🇦 Canada | vless | WHITE
+vless://e7f6f783-6754-4228-a5d0-aeed84b9949a@172.66.214.247:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=sweet-sun-c70f.317-ba5.workers.dev&security=none&encryption=none&type=ws#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#46 Ping: 2.1ms | 🇨🇦 Canada | vless | WHITE
+vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@104.21.12.116:8880/?type=ws&encryption=none&flow=&host=morning-wood-0e8a.28-63e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&burmalda=28eeb762#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
+
+#47 Ping: 2.1ms | 🇷🇺 Russia | vless | WHITE
+vless://1560c0b2-3cb8-45a3-988b-7103b031a815@104.16.8.66:8880?security=none&type=ws&host=delicate-wood-49a8.214-451.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#48 Ping: 2.1ms | 🇷🇺 Russia | vless | WHITE
+vless://d682c8f4-e719-577e-cbe9-2e5b00000003@104.21.19.53:8080?encryption=none&security=none&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#49 Ping: 2.1ms | 🇷🇺 Russia | vless | WHITE
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=yellow-breeze-989b.348-9b8.workers.dev&type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+
+#50 Ping: 2.2ms | 🇩🇪 Germany | vless | BLACK
+vless://83048224-1465-4dc7-9492-d7f5ba339fee@151.101.193.51:443?security=tls&sni=relay-6bcjt33c.edgecompute.app&type=xhttp&host=relay-6bcjt33c.edgecompute.app&path=%2Fdana1365&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 
