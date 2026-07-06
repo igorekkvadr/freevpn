@@ -142,7 +142,7 @@ def fetch_keys(url):
         resp.raise_for_status()
         lines = resp.text.strip().splitlines()
         keys = []
-        seen = set()  # Для удаления дубликатов
+        seen = set()
         for line in lines:
             line = line.strip()
             if line and not line.startswith('#'):
@@ -152,7 +152,6 @@ def fetch_keys(url):
                     "wireguard://", "openvpn://", "socks://", "http://",
                     "https://", "hy2://", "vl://"
                 ]):
-                    # Убираем # в конце для сравнения
                     clean_line = line.split('#')[0]
                     if clean_line not in seen:
                         seen.add(clean_line)
@@ -246,17 +245,39 @@ def format_key_with_location(key_data, country_name, index, total_for_country):
             break
     
     color = "🏴" if key_data["is_black"] else "🏳️"
+    
+    # Если это фиксированный ключ - даем ему специальную метку
+    if key_data["key"] == FIXED_KEY:
+        return FIXED_KEY
+    
     number = f" #{index}" if total_for_country > 1 else ""
-    
     location = f"{flag} {country_name}{number} [{color}]"
-    
     clean_key = key_data["key"].split('#')[0]
     return f"{clean_key}#{location}"
 
 def save_keys_with_locations(keys_data, filename, add_header=False):
-    country_groups = defaultdict(list)
+    # Разделяем на черные и белые ключи
+    black_keys = []
+    white_keys = []
     
-    # Добавляем фиксированный ключ в начало
+    for key_data in keys_data:
+        if key_data["is_black"]:
+            black_keys.append(key_data)
+        else:
+            white_keys.append(key_data)
+    
+    # Сортируем по пингу
+    black_keys.sort(key=lambda x: x["latency_ms"])
+    white_keys.sort(key=lambda x: x["latency_ms"])
+    
+    # Берем по 25 черных и 24 белых + фиксированный ключ
+    selected_black = black_keys[:25]
+    selected_white = white_keys[:24]
+    
+    # Собираем все ключи
+    all_selected = []
+    
+    # Сначала фиксированный ключ (он белый)
     fixed_key_entry = {
         "key": FIXED_KEY,
         "is_black": False,
@@ -266,32 +287,28 @@ def save_keys_with_locations(keys_data, filename, add_header=False):
     # Проверяем, есть ли уже такой ключ в списке
     fixed_key_clean = FIXED_KEY.split('#')[0]
     exists = False
-    for key_data in keys_data:
+    for key_data in selected_white:
         if key_data["key"].split('#')[0] == fixed_key_clean:
             exists = True
             break
     
-    # Если ключа нет, добавляем его в начало
-    all_keys = list(keys_data)
+    # Добавляем фиксированный ключ в начало, если его нет
     if not exists:
-        all_keys.insert(0, fixed_key_entry)
+        all_selected.append(fixed_key_entry)
     
-    for key_data in all_keys:
+    # Добавляем остальные белые ключи (убираем дубликат фиксированного)
+    for key_data in selected_white:
+        if key_data["key"].split('#')[0] != fixed_key_clean:
+            all_selected.append(key_data)
+    
+    # Добавляем черные ключи
+    all_selected.extend(selected_black)
+    
+    # Группируем по странам для отображения номеров
+    country_groups = defaultdict(list)
+    for key_data in all_selected:
         country_name, _ = get_country_and_flag_from_key(key_data["key"])
         country_groups[country_name].append(key_data)
-    
-    # Ограничиваем каждую страну до MAX_PER_COUNTRY ключей
-    for country in country_groups:
-        if len(country_groups[country]) > MAX_PER_COUNTRY:
-            country_groups[country] = country_groups[country][:MAX_PER_COUNTRY]
-    
-    if "Netherlands" in country_groups and len(country_groups["Netherlands"]) > MAX_NETHERLANDS:
-        country_groups["Netherlands"] = country_groups["Netherlands"][:MAX_NETHERLANDS]
-    
-    # Россия всегда в топе, остальные по количеству
-    russia_keys = country_groups.pop("Russia", [])
-    sorted_countries = sorted(country_groups.items(), key=lambda x: len(x[1]), reverse=True)
-    top_countries = [("Russia", russia_keys)] + sorted_countries[:MAX_COUNTRIES-1] if russia_keys else sorted_countries[:MAX_COUNTRIES]
     
     lines = []
     
@@ -305,22 +322,23 @@ def save_keys_with_locations(keys_data, filename, add_header=False):
         ]
         lines.extend(header)
     
-    # Сначала добавляем Germany (если есть) с фиксированным ключом
-    if "Germany" in country_groups:
-        germany_keys = sorted(country_groups["Germany"], key=lambda x: x["latency_ms"])
-        # Пропускаем уже добавленный фиксированный ключ
-        for key_data in germany_keys:
-            if key_data["key"] != FIXED_KEY:
-                formatted_key = format_key_with_location(key_data, "Germany", 1, len(germany_keys))
-                lines.append(formatted_key)
-                lines.append("")
+    # Сначала добавляем фиксированный ключ
+    lines.append(FIXED_KEY)
+    lines.append("")
     
-    # Затем остальные страны
-    for country_name, keys in top_countries:
-        if country_name == "Germany":
-            continue  # Пропускаем, так как уже добавили
+    # Сортируем страны по количеству ключей
+    sorted_countries = sorted(country_groups.items(), key=lambda x: len(x[1]), reverse=True)
+    
+    for country_name, keys in sorted_countries:
+        # Пропускаем Germany если там только фиксированный ключ
+        if country_name == "Germany" and len(keys) == 1 and keys[0]["key"] == FIXED_KEY:
+            continue
+            
         sorted_keys = sorted(keys, key=lambda x: x["latency_ms"])
         for i, key_data in enumerate(sorted_keys, 1):
+            # Пропускаем фиксированный ключ (уже добавлен)
+            if key_data["key"] == FIXED_KEY:
+                continue
             formatted_key = format_key_with_location(key_data, country_name, i, len(sorted_keys))
             lines.append(formatted_key)
             lines.append("")
@@ -328,7 +346,7 @@ def save_keys_with_locations(keys_data, filename, add_header=False):
     with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     
-    print(f"Сохранено {len(all_keys)} ключей в {filename}")
+    print(f"Сохранено {len(all_selected)} ключей в {filename} (черных: {len(selected_black)}, белых: {len(selected_white)})")
 
 def main():
     old_first_seen = load_old_first_seen()
@@ -397,19 +415,17 @@ def main():
         json.dump(results, f, ensure_ascii=False, indent=2)
     print("Сохранено в docs/keys.json")
     
-    top50 = working_keys[:50]
-    
-    save_keys_with_locations(top50, "docs/main_keys.txt", add_header=True)
+    save_keys_with_locations(working_keys, "docs/main_keys.txt", add_header=True)
     save_keys_with_locations(working_keys, "docs/keys.txt", add_header=False)
     
     with open("docs/top_50.txt", "w", encoding="utf-8") as f:
-        for i, key_data in enumerate(top50, 1):
+        for i, key_data in enumerate(working_keys[:50], 1):
             country_name, flag = get_country_and_flag_from_key(key_data["key"])
             source_type = "BLACK" if key_data["is_black"] else "WHITE"
             protocol = key_data["key"].split("://")[0] if "://" in key_data["key"] else "unknown"
             f.write(f"#{i} Ping: {key_data['latency_ms']}ms | {flag} {country_name} | {protocol} | {source_type}\n")
             f.write(f"{key_data['key']}\n\n")
-    print(f"Сохранено {len(top50)} ключей в docs/top_50.txt")
+    print(f"Сохранено {len(working_keys[:50])} ключей в docs/top_50.txt")
     
     total_time = time.time() - start_time
     print(f"\n✅ Готово! Время выполнения: {total_time:.1f} секунд")
